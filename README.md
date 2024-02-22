@@ -1,4 +1,9 @@
-# Astro
+# Astro with tailwind
+
+Also with...
+
+- flowbite https://github.com/manfredengler/astro-tailwind-boilerplate/tree/flowbite
+- DaisyUI https://github.com/manfredengler/astro-tailwind-boilerplate/tree/daisyui
 
 This directory is a brief example of an [Astro](https://astro.build/) site that can be deployed to Vercel with zero configuration. This demo showcases:
 
