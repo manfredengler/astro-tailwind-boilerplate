@@ -1,4 +1,4 @@
-# Astro with tailwind
+# Astro with Tailwind
 
 Also with...
 
